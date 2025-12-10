@@ -1,3 +1,12 @@
-// Hello World.cpp
+// Hello World 
+# include <iostream>
 
-cout "Hellow Wolld";
+using namespace std;
+
+int main(){
+
+	cout << "Hello World!" << endl;
+
+}
+
+
